@@ -91,7 +91,7 @@
       <properties>
         <eclipse.dependency>true</eclipse.dependency>
       </properties>
-    </dependency>-->
+    </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src/java</sourceDirectory>
